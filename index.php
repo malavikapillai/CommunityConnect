@@ -202,52 +202,43 @@
 
     <!-- Contributors Section -->
 
-    <section id="contributors" class="bg-gray-100 py-12">
-    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold text-center text-gray-800 mb-8">Our Contributors</h2>
-        
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 items-stretch">
-            <!-- Contributor 1 -->
-            <div class="bg-white rounded-lg shadow-md p-6 text-center h-full transform transition-all duration-300 hover:translate-y-[-8px] hover:shadow-lg">
-                <div class="w-24 h-24 rounded-full bg-gray-300 mx-auto mb-4 overflow-hidden">
-                    <img src="newmalls.jpeg" alt="Malavika Pillai" class="w-full h-full object-cover">
-                </div>
-                <h3 class="text-xl font-semibold text-gray-800">Malavika Pillai</h3>
-                <p class="text-gray-600">Reg no: 12300824</p>
-                <div class="mt-3 flex justify-center space-x-3">
-                    <a href="#" class="text-blue-500 hover:text-blue-700"><i class="fab fa-linkedin"></i></a>
-                    <a href="#" class="text-gray-700 hover:text-gray-900"><i class="fab fa-github"></i></a>
-                </div>
-            </div>
-            
-            <!-- Contributor 2 -->
-            <div class="bg-white rounded-lg shadow-md p-6 text-center h-full transform transition-all duration-300 hover:translate-y-[-8px] hover:shadow-lg">
-                <div class="w-24 h-24 rounded-full bg-gray-300 mx-auto mb-4 overflow-hidden">
-                    <img src="sanvi.jpeg" alt="Sanvi Kumari" class="w-full h-full object-cover">
-                </div>
-                <h3 class="text-xl font-semibold text-gray-800">Sanvi Kumari</h3>
-                <p class="text-gray-600">Reg no:12310408</p>
-                <div class="mt-3 flex justify-center space-x-3">
-                    <a href="#" class="text-blue-500 hover:text-blue-700"><i class="fab fa-linkedin"></i></a>
-                    <a href="#" class="text-gray-700 hover:text-gray-900"><i class="fab fa-github"></i></a>
-                </div>
-            </div>
-            
-            <!-- Contributor 3 -->
-            <div class="bg-white rounded-lg shadow-md p-6 text-center h-full transform transition-all duration-300 hover:translate-y-[-8px] hover:shadow-lg">
-                <div class="w-24 h-24 rounded-full bg-gray-300 mx-auto mb-4 overflow-hidden">
-                    <img src="siya.jpeg" alt="Siya Jaiswal" class="w-full h-full object-cover">
-                </div>
-                <h3 class="text-xl font-semibold text-gray-800">Siya Jaiswal</h3>
-                <p class="text-gray-600">Reg no:12301115</p>
-                <div class="mt-3 flex justify-center space-x-3">
-                    <a href="#" class="text-blue-500 hover:text-blue-700"><i class="fab fa-linkedin"></i></a>
-                    <a href="#" class="text-gray-700 hover:text-gray-900"><i class="fab fa-github"></i></a>
-                </div>
-            </div>
-        </div>
+    <section id="impact" class="bg-gray-100 py-12">
+  <div class="container mx-auto px-4 text-center">
+    <h2 class="text-3xl font-bold text-gray-800 mb-10">Making a Difference</h2>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      
+      <!-- Testimonial 1 -->
+      <blockquote class="bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:scale-[1.02]">
+        <p class="italic text-gray-700">"ComConnect helped me find the nearest shelter when I was in need. It's fast, simple, and reliable."</p>
+        <footer class="mt-4 text-gray-500 text-sm">– Local User</footer>
+      </blockquote>
+      
+      <!-- Testimonial 2 -->
+      <blockquote class="bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:scale-[1.02]">
+        <p class="italic text-gray-700">"I didn't know where to find food banks in my city. ComConnect gave me instant answers with just my location."</p>
+        <footer class="mt-4 text-gray-500 text-sm">– Community Volunteer</footer>
+      </blockquote>
+      
+      <!-- Testimonial 3 -->
+      <blockquote class="bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:scale-[1.02]">
+        <p class="italic text-gray-700">"The chatbot interface is so smooth. I got connected to a nearby free clinic without having to search on Google."</p>
+        <footer class="mt-4 text-gray-500 text-sm">– Student User</footer>
+      </blockquote>
+      
+      <!-- Testimonial 4 -->
+      <blockquote class="bg-white p-6 rounded-lg shadow-md transition-all duration-300 hover:scale-[1.02]">
+        <p class="italic text-gray-700">"I recommended ComConnect to my local NGO group. It's exactly what underserved communities need."</p>
+        <footer class="mt-4 text-gray-500 text-sm">– NGO Coordinator</footer>
+      </blockquote>
+      
     </div>
+  </div>
 </section>
+
+
+    
+
 
 
 
