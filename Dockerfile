@@ -8,4 +8,3 @@ COPY . /var/www/html/
 
 # Give permissions (optional)
 RUN chown -R www-data:www-data /var/www/html
-gi
